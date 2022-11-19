@@ -9,7 +9,8 @@
 - 🌱 I’m currently learning Mobile Proggramming & Website Development
 - 💬 Ask me about anythhing, I am happy to help
 - 📫 How to reach me: nuralisholikhin19@gmail.com
-- 📝 Sometimes I write Book's on [Google Play Books](https://play.google.com/store/books/author?id=Nur+Ali+Sholikhin)
+- 📝 Sometimes write Book's on [Google Play Books](https://play.google.com/store/books/author?id=Nur+Ali+Sholikhin)
+- ⚡ Fun fact: I love often make PCB keyboard designs and other DIY electronics
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -101,5 +102,5 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...often make PCB keyboard designs and DIY electronics
 -->

@@ -5,11 +5,13 @@
   <hr/>
 <h4 align="center">I am a Junior Programmer. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
+
+- 🌱 I’m currently learning Mobile Proggramming & Website Defelopment
+- 💬 Ask me about anythhing, I am happy to help
+- 📫 How to reach me: nuralisholikhin19@gmail.com
+
+
 <!--
-**TahuTech/TahuTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

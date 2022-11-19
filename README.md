@@ -11,14 +11,14 @@
 - 📫 How to reach me: nuralisholikhin19@gmail.com
 - 📝 I regularly write articles on [https://uu.com/@uu](jjj)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/suryo-atmojo-04983587/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryo-atmojo-04983587/" height="30" width="40" /></a>
-<a href="https://instagram.com/suryoatm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suryoatm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCowbGte4vipZcClr9QU-vVw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucowbgte4vipzcclr9qu-vvw" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nur-ali-sholikhin-78a795247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nur-ali-sholikhin-78a795247/" height="30" width="40" /></a>
+<a href="https://instagram.com/nur_ali.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nur_ali.s" height="30" width="40" /></a>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>

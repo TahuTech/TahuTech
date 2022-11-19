@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Mobile Proggramming & Website Development
 - 💬 Ask me about anythhing, I am happy to help
 - 📫 How to reach me: nuralisholikhin19@gmail.com
-- 📝 I regularly write Book's on Google Play Books [Nur Ali Sholikhin](https://play.google.com/store/books/author?id=Nur+Ali+Sholikhin)
+- 📝 I regularly write Book's on (https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) [Nur Ali Sholikhin](https://play.google.com/store/books/author?id=Nur+Ali+Sholikhin)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -18,7 +18,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/nur-ali-sholikhin-78a795247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nur-ali-sholikhin-78a795247/" height="30" width="40" /></a>
 <a href="https://instagram.com/nur_ali.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nur_ali.s" height="30" width="40" /></a>
-<a href="https://discord.gg/MonsterBiru#0897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills

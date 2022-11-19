@@ -79,7 +79,7 @@
 <br/>
 	  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tahutech&theme=algolia" alt="TahuTech"  /></p>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TahuTech&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Tahutech19" height="192px"/>
+	   <p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TahuTech&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Tahutech19" height="192px"/> </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>

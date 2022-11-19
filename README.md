@@ -77,6 +77,7 @@
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TahuTech&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
+	  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tahutech&theme=algolia" alt="TahuTech"  /></p>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TahuTech&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Tahutech19" height="192px"/>
   <br/>

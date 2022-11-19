@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Mobile Proggramming & Website Development
 - 💬 Ask me about anythhing, I am happy to help
 - 📫 How to reach me: nuralisholikhin19@gmail.com
-- 📝 I regularly write Book's on (https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) [Nur Ali Sholikhin](https://play.google.com/store/books/author?id=Nur+Ali+Sholikhin)
+- 📝 I regularly write Book's on ![Google](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) [Nur Ali Sholikhin](https://play.google.com/store/books/author?id=Nur+Ali+Sholikhin)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 

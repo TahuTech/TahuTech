@@ -87,14 +87,6 @@
   </p>
 </details>
 
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/TahuTech"><img alt="Ali's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TahuTech&custom_title=Nur%20Ali%20Sholikhin's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

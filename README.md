@@ -6,7 +6,7 @@
 <h4 align="center">I am a Junior Programmer. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
-- 🌱 I’m currently learning Mobile Proggramming & Website Development
+- 🌱 I’m currently Full Stack Website Developer and Mobile Proggrammer
 - 💬 Ask me about anythhing, I am happy to help
 - 📫 How to reach me: nuralisholikhin19@gmail.com
 - 📝 Sometimes write Book's on [Google Play Books](https://play.google.com/store/books/author?id=Nur+Ali+Sholikhin)

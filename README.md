@@ -3,14 +3,14 @@
 <p align="center">
 
   <hr/>
-<h4 align="center">I am a Junior Programmer. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am Programmer. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
 - 🌱 I’m currently Full Stack Website Developer and Mobile Proggrammer
 - 💬 Ask me about anythhing, I am happy to help
 - 📫 How to reach me: nuralisholikhin19@gmail.com
 - 📝 Sometimes write Book's on [Google Play Books](https://play.google.com/store/books/author?id=Nur+Ali+Sholikhin)
-- ⚡ Fun fact: I love often make PCB keyboard designs and other DIY electronics
+- ⚡ Fun fact: I love often making 3D designs, PCB keyboard designs, and other DIY electronics.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 

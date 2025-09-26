@@ -10,7 +10,7 @@
 - 💬 Ask me about anythhing, I am happy to help
 - 📫 How to reach me: nuralisholikhin19@gmail.com
 - 📝 Sometimes write Book's on [Google Play Books](https://play.google.com/store/books/author?id=Nur+Ali+Sholikhin)
-- 🖌️ My 3D Design [Cults 3D](https://cults3d.com/en/users/Tahutech/3d-models.)
+- 🖌️ My 3D Design [Cults 3D](https://cults3d.com/en/users/Tahutech/3d-models)
 - ⚡ Fun fact: I love often making 3D designs, PCB keyboard designs, and other DIY electronics.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>

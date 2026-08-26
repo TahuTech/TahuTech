@@ -62,6 +62,12 @@
   <i>Top languages only show public repositories and are not a direct measure of skill.</i>
 </p>
 
+## Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TahuTech/TahuTech/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph" />
+</p>
+
 ---
 
 <p align="center">

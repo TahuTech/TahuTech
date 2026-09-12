@@ -24,26 +24,6 @@
 - I also publish books on [Google Play Books](https://play.google.com/store/books/author?id=Nur+Ali+Sholikhin).
 - You can explore my 3D work on [Cults 3D](https://cults3d.com/en/users/Tahutech/3d-models).
 
-## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php" alt="languages" />
-</p>
-
-### Frameworks and Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vue,nuxt,tailwind,bootstrap,laravel,codeigniter" alt="frameworks and libraries" />
-</p>
-
-### Databases and Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker" alt="databases and tools" />
-</p>
-
 ---
 
 ## GitHub Stats
